@@ -1,4 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<session version="1.0">
-<refactoring comment="Rename type &apos;BIJ_1181&apos; to &apos;BOJ_1181&apos;&#x0D;&#x0A;- Original project: &apos;BOJ&apos;&#x0D;&#x0A;- Original element: &apos;BIJ_1181&apos;&#x0D;&#x0A;- Renamed element: &apos;BOJ_1181&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;BIJ_1181&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;{BIJ_1181.java[BIJ_1181" matchStrategy="1" name="BOJ_1181" qualified="false" references="true" similarDeclarations="false" stamp="1577155790944" textual="false" version="1.0"/>
-</session>
